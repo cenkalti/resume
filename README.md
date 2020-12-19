@@ -17,7 +17,9 @@ while focusing on simplicity, testing and standards based design.
 
 ## Professional Experience
 
-### [Put.io](http://put.io): Software Engineer (12/2015 - Current)
+### [Amazon.com](http://amazon.com): Software Development Engineer (12/2020 - Current)
+
+### [Put.io](http://put.io): Software Engineer (12/2015 - 10/2020)
 Cloud storage service with BitTorrent support.
 
 - Designed and developed a BitTorrent client: [Rain](https://github.com/cenkalti/rain)
